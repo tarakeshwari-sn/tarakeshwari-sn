@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Tarakeshwari S N
 
-<!--
-**tarakeshwari-sn/tarakeshwari-sn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Final-year Computer Science student** passionate about data, analytics, and intelligent systems.
 
-Here are some ideas to get you started:
+🧠 **Currently working on my bachelor's thesis:**  
+_**Four-Bit Quantized Neural Network for Edge Deployment**_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **Previous Internships**  
+- **KGiSL** – OpenCV, TensorFlow (AI ML Team) 
+- **IIT Madras** – Research/Manifold Learning & MATLAB
+- **ATNA Tech** – Web Development 
+
+## 🔧 Tech Stack
+
+**Languages:**  
+Python • SQL • JavaScript • HTML/CSS • MATLAB
+
+**Developer Tools:**  
+Git • Google Cloud Platform • VS Code • PyCharm • G Suite • Microsoft Office
+
+**Libraries & Frameworks:**  
+pandas • NumPy • NLTK • Matplotlib • PyTorch • TensorFlow • OpenCV • Tkinter • PyQt5
+
+## 📅 Availability  
+- **Internships:** Starting **Dec 2025**  
+- **Full-time roles:** Available from **May 2026**  
+
+## 🌐 Portfolio & Contact
+
+**Portfolio:**  https://tarakeshwari-portfolio.vercel.app/
+**Resume:** https://tinyurl.com/tara-res
+**Email:** sntarakeshwari@gmail.com

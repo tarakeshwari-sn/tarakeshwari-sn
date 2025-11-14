@@ -28,6 +28,7 @@ pandas • NumPy • NLTK • Matplotlib • PyTorch • TensorFlow • OpenCV �
 
 ## 🌐Contact
 
--**Portfolio:**  https://tarakeshwari-portfolio.vercel.app/
--**Resume:** https://tinyurl.com/tara-res
--**Email:** sntarakeshwari@gmail.com
+- **Portfolio:**  https://tarakeshwari-portfolio.vercel.app/
+- **Resume:** https://tinyurl.com/tara-res
+- **Email:** sntarakeshwari@gmail.com
+

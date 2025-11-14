@@ -16,7 +16,7 @@ _**Four-Bit Quantized Neural Network for Edge Deployment**_
 Python • SQL • JavaScript • HTML/CSS • MATLAB
 
 **Developer Tools:**  
-Git • Google Cloud Platform • VS Code • PyCharm • G Suite • Microsoft Office
+Git • Google Cloud Platform • VS Code • PyCharm • Power BI • G Suite • Microsoft Office
 
 **Libraries & Frameworks:**  
 pandas • NumPy • NLTK • Matplotlib • PyTorch • TensorFlow • OpenCV • Tkinter • PyQt5

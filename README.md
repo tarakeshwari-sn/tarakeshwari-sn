@@ -23,10 +23,11 @@ pandas • NumPy • NLTK • Matplotlib • PyTorch • TensorFlow • OpenCV �
 
 ## 📅 Availability  
 - **Internships:** Starting **Dec 2025**  
-- **Full-time roles:** Available from **May 2026**  
+- **Full-time roles:** Available from **May 2026**
+- Open to Relocation.
 
-## 🌐 Portfolio & Contact
+## 🌐Contact
 
-**Portfolio:**  https://tarakeshwari-portfolio.vercel.app/
-**Resume:** https://tinyurl.com/tara-res
-**Email:** sntarakeshwari@gmail.com
+-**Portfolio:**  https://tarakeshwari-portfolio.vercel.app/
+-**Resume:** https://tinyurl.com/tara-res
+-**Email:** sntarakeshwari@gmail.com

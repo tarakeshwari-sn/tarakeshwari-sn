@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tarakeshwari S N
+# 👋 Hi, I'm Tara
 
 🎓 **Final-year Computer Science student** passionate about data, analytics, and intelligent systems.
 
